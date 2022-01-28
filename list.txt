@@ -1,44 +1,6 @@
 title:dimwishlist
 description:2022-01-23 05:10
 
-//notes:Avalanche PvE
+//Avalanche
+//notes:PvE
 dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,2848615171
-
-//notes:Borrowed Time PvE
-dimwishlist:item=875848769&perks=839105230,679225683,2779035018,3425386926
-
-//notes:Borrowed Time PvP
-dimwishlist:item=875848769&perks=1482024992,679225683,2846385770,3708227201
-
-//notes:Canis Major PvE
-dimwishlist:item=2066434718&perks=981914802,3301904089,2869569095,1546637391
-
-//notes:Empty Vessel Anti-Boss
-dimwishlist:item=4255586669&perks=981914802,3301904089,2869569095,1546637391
-
-//notes:Empty Vessel Concution
-dimwishlist:item=4255586669&perks=3525010810,1716000303,3300816228,1683379515
-
-//notes:Eternal Blazon PvP I
-dimwishlist:item=3514096004&perks=3230963543,2450788523,1015611457
-
-//notes:Eternal Blazon PvP II
-dimwishlist:item=3514096004&perks=3230963543,2450788523,4049631843
-
-//notes:Fractethyst PvE
-dimwishlist:item=3184681056&perks=1047830412,3142289711,2621346526,2726471870
-
-//notes:Fractethyst PvP
-dimwishlist:item=3184681056&perks=1047830412,3142289711,2621346526,47981717
-
-//notes:Glacioclasm Ultimate
-dimwishlist:item=1030895163&perks=839105230,2969185026,2450788523,2213355989
-
-//notes:Pardon Our Dust PvE Control
-dimwishlist:item=3849810018&perks=3798852852,1716000303,3300816228,960810156
-
-//notes:Wastelander M5 PvP
-dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717
-
-//notes:Wolftone Draw PvE
-dimwishlist:item=3472875143&perks=2801223209,3827198035,201365942,2848615171
