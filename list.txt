@@ -1,7 +1,7 @@
 title:INSULT's dimwishlist
 description:2022-01-30 06:30
 
-//<<Avalanche PvE>>
+//<------------------------------Avalanche PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,2848615171,1590375901
 dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,2848615171,1590375902
@@ -174,7 +174,7 @@ dimwishlist:item=66875353&perks=3300816228,2848615171
 //notes:Wishlisted
 dimwishlist:item=-66875353
 
-//<<Borrowed Time PvE>>
+//<------------------------------Borrowed Time PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=875848769&perks=3661387068,1885400500,2779035018,3425386926,1590375901
 dimwishlist:item=875848769&perks=3661387068,1885400500,2779035018,3425386926,1590375902
@@ -347,7 +347,7 @@ dimwishlist:item=875848769&perks=2779035018,3425386926
 //notes:Wishlisted
 dimwishlist:item=-875848769
 
-//<<Borrowed Time PvP>>
+//<------------------------------Borrowed Time PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,3708227201,150943607
 dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,3708227201,150943604
@@ -520,7 +520,7 @@ dimwishlist:item=875848769&perks=2846385770,3708227201
 //notes:Wishlisted
 dimwishlist:item=-875848769
 
-//<<Canis Major PvE>>
+//<------------------------------Canis Major PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=2066434718&perks=981914802,3301904089,2869569095,1546637391,4283235143
 dimwishlist:item=2066434718&perks=981914802,3301904089,2869569095,1546637391,4283235140
@@ -693,7 +693,7 @@ dimwishlist:item=2066434718&perks=2869569095,1546637391
 //notes:Wishlisted
 dimwishlist:item=-2066434718
 
-//<<Empty Vessel Anti-Boss>>
+//<------------------------------Empty Vessel Anti-Boss------------------------------>
 //notes:Godroll
 dimwishlist:item=4255586669&perks=981914802,3301904089,2869569095,1546637391,4283235143
 dimwishlist:item=4255586669&perks=981914802,3301904089,2869569095,1546637391,4283235140
@@ -866,7 +866,7 @@ dimwishlist:item=4255586669&perks=2869569095,1546637391
 //notes:Wishlisted
 dimwishlist:item=-4255586669
 
-//<<Empty Vessel Control>>
+//<------------------------------Empty Vessel Control------------------------------>
 //notes:Godroll
 dimwishlist:item=4255586669&perks=3525010810,1716000303,3300816228,1683379515,518224747
 dimwishlist:item=4255586669&perks=3525010810,1716000303,3300816228,1683379515,518224744
@@ -1039,7 +1039,7 @@ dimwishlist:item=4255586669&perks=3300816228,1683379515
 //notes:Wishlisted
 dimwishlist:item=-4255586669
 
-//<<Eyasluna PvP>>
+//<------------------------------Eyasluna PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=235827225&perks=1926090090,679225683,1561002382,2846385770,588594999,150943607
 dimwishlist:item=235827225&perks=1926090090,679225683,1561002382,2846385770,588594999,150943604
@@ -1212,7 +1212,7 @@ dimwishlist:item=235827225&perks=2846385770,588594999
 //notes:Wishlisted
 dimwishlist:item=-235827225
 
-//<<Scathlocke PvE>>
+//<------------------------------Scathlocke PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=602618796&perks=839105230,3230963543,106909392,1570042021,3425386926,150943607
 dimwishlist:item=602618796&perks=839105230,3230963543,106909392,1570042021,3425386926,150943604
@@ -1385,7 +1385,7 @@ dimwishlist:item=602618796&perks=1570042021,3425386926
 //notes:Wishlisted
 dimwishlist:item=-602618796
 
-//<<The Deicide PvE>>
+//<------------------------------The Deicide PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=217140611&perks=1047830412,106909392,1556840489,2679249093,4283235143
 dimwishlist:item=217140611&perks=1047830412,106909392,1556840489,2679249093,4283235140
@@ -1558,7 +1558,7 @@ dimwishlist:item=217140611&perks=1556840489,2679249093
 //notes:Wishlisted
 dimwishlist:item=-217140611
 
-//<<Cartesian Coordinate Anti-Boss>>
+//<------------------------------Cartesian Coordinate Anti-Boss------------------------------>
 //notes:Godroll
 dimwishlist:item=2481881293&perks=2405638014,2969185026,1645158859,1546637391,150943607
 dimwishlist:item=2481881293&perks=2405638014,2969185026,1645158859,1546637391,150943604
@@ -1731,7 +1731,7 @@ dimwishlist:item=2481881293&perks=1645158859,1546637391
 //notes:Wishlisted
 dimwishlist:item=-2481881293
 
-//<<Frozen Orbit PvP>>
+//<------------------------------Frozen Orbit PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=3473290087&perks=1840239774,106909392,588594999,957782887,518224747
 dimwishlist:item=3473290087&perks=1840239774,106909392,588594999,957782887,518224744
@@ -1904,7 +1904,7 @@ dimwishlist:item=3473290087&perks=588594999,957782887
 //notes:Wishlisted
 dimwishlist:item=-3473290087
 
-//<<Sorrow's Verse PvE>>
+//<------------------------------Sorrow's Verse PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=2496875173&perks=1392496348,106909392,1570042021,3425386926,150943607
 dimwishlist:item=2496875173&perks=1392496348,106909392,1570042021,3425386926,150943604
@@ -2077,7 +2077,7 @@ dimwishlist:item=2496875173&perks=1570042021,3425386926
 //notes:Wishlisted
 dimwishlist:item=-2496875173
 
-//<<IKELOS_HC_v1.0.2 PvE>>
+//<------------------------------IKELOS_HC_v1.0.2 PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,3425386926,150943607
 dimwishlist:item=1200824700&perks=1840239774,106909392,3400784728,3425386926,150943604
@@ -2250,7 +2250,7 @@ dimwishlist:item=1200824700&perks=3400784728,3425386926
 //notes:Wishlisted
 dimwishlist:item=-1200824700
 
-//<<Coriolis Force PvE>>
+//<------------------------------Coriolis Force PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=3512349612&perks=1840239774,1687452232,2779035018,2726471870,150943607
 dimwishlist:item=3512349612&perks=1840239774,1687452232,2779035018,2726471870,150943604
@@ -2431,7 +2431,7 @@ dimwishlist:item=-378498222
 //notes:Trash, leave one solar pistol
 dimwishlist:item=-65611680
 
-//<<IKELOS_SMG_v1.0.2 PvE>>
+//<------------------------------IKELOS_SMG_v1.0.2 PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,3523296417,1590375901
 dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,3523296417,1590375902
@@ -2641,7 +2641,7 @@ dimwishlist:item=-253196586
 //notes:Trash, go for PLUG ONE.1
 dimwishlist:item=-607191995
 
-//<<PLUG ONE.1>>
+//<------------------------------PLUG ONE.1------------------------------>
 //notes:Godroll
 dimwishlist:item=1289000550&perks=1840239774,1687452232,2779035018,1427256713,4283235143
 dimwishlist:item=1289000550&perks=1840239774,1687452232,2779035018,1427256713,4283235140
@@ -2818,7 +2818,7 @@ dimwishlist:item=-1289000550
 //notes:Trash, go for Null Composure
 dimwishlist:item=-2209003210
 
-//<<Seventh Seraph Officer Revolver PvE>>
+//<------------------------------Seventh Seraph Officer Revolver PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2458213969,150943607
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2458213969,150943604
@@ -2991,7 +2991,7 @@ dimwishlist:item=3037520408&perks=4071163871,2458213969
 //notes:Wishlisted
 dimwishlist:item=-3037520408
 
-//<<Survivor's Epitaph PvE>>
+//<------------------------------Survivor's Epitaph PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=310708513&perks=1482024992,679225683,247725512,11612903,150943607
 dimwishlist:item=310708513&perks=1482024992,679225683,247725512,11612903,150943604
@@ -3164,7 +3164,7 @@ dimwishlist:item=310708513&perks=247725512,11612903
 //notes:Wishlisted
 dimwishlist:item=-310708513
 
-//<<Vulpecula PvE>>
+//<------------------------------Vulpecula PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=1622998472&perks=1482024992,3230963543,1168162263,2458213969,150943607
 dimwishlist:item=1622998472&perks=1482024992,3230963543,1168162263,2458213969,150943604
@@ -3345,7 +3345,7 @@ dimwishlist:item=-1690783811
 //notes:Trash, go for Scathelocke
 dimwishlist:item=-507038823
 
-//<<Seventh Seraph Carbine PvE>>
+//<------------------------------Seventh Seraph Carbine PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=1561006927&perks=1840239774,1561002382,4071163871,3425386926,1590375901
 dimwishlist:item=1561006927&perks=1840239774,1561002382,4071163871,3425386926,1590375902
@@ -3518,7 +3518,7 @@ dimwishlist:item=1561006927&perks=4071163871,3425386926
 //notes:Wishlisted
 dimwishlist:item=-1561006927
 
-//<<Chroma Rush PvE>>
+//<------------------------------Chroma Rush PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=1119734784&perks=1482024992,3142289711,588594999,3425386926,150943607
 dimwishlist:item=1119734784&perks=1482024992,3142289711,588594999,3425386926,150943604
@@ -3691,7 +3691,7 @@ dimwishlist:item=1119734784&perks=588594999,3425386926
 //notes:Wishlisted
 dimwishlist:item=-1119734784
 
-//<<False Promises PvE>>
+//<------------------------------False Promises PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=3143732432&perks=1482024992,1885400500,2779035018,3425386926,150943607
 dimwishlist:item=3143732432&perks=1482024992,1885400500,2779035018,3425386926,150943604
@@ -3872,7 +3872,7 @@ dimwishlist:item=-528834068
 //notes:Trash, go for Accrued Redemption
 dimwishlist:item=-1621657423
 
-//<<Accrued Redemption PvE>>
+//<------------------------------Accrued Redemption PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926,2203506848
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926,2203506851
@@ -4045,7 +4045,7 @@ dimwishlist:item=4095896073&perks=201365942,3425386926
 //notes:Wishlisted
 dimwishlist:item=-4095896073
 
-//<<Whispering Slab PvE>>
+//<------------------------------Whispering Slab PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942,4082225868,2203506848
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942,4082225868,2203506851
@@ -4222,7 +4222,7 @@ dimwishlist:item=-211938782
 //notes:Trash, Lightweight PR overall
 dimwishlist:item=-568515759
 
-//<<Hailing Confusion PvP>>
+//<------------------------------Hailing Confusion PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=2870169846&perks=839105230,1561002382,1168162263,3108830275,150943607
 dimwishlist:item=2870169846&perks=839105230,1561002382,1168162263,3108830275,150943604
@@ -4403,7 +4403,7 @@ dimwishlist:item=-1216130969
 //notes:Trash, go for The Messenger
 dimwishlist:item=-3409645497
 
-//<<The Messenger PvP>>
+//<------------------------------The Messenger PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=3658188704&perks=839105230,1561002382,588594999,3047969693,150943607
 dimwishlist:item=3658188704&perks=839105230,1561002382,588594999,3047969693,150943604
@@ -4576,7 +4576,7 @@ dimwishlist:item=3658188704&perks=588594999,3047969693
 //notes:Wishlisted
 dimwishlist:item=-3658188704
 
-//<<Sacred Provenance PvP>>
+//<------------------------------Sacred Provenance PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=2408405461&perks=202670084,1561002382,2846385770,957782887,150943607
 dimwishlist:item=2408405461&perks=202670084,1561002382,2846385770,957782887,150943604
@@ -4749,7 +4749,7 @@ dimwishlist:item=2408405461&perks=2846385770,957782887
 //notes:Wishlisted
 dimwishlist:item=-2408405461
 
-//<<Sacred Provenance PvE>>
+//<------------------------------Sacred Provenance PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457,518224747
 dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457,518224744
@@ -4922,7 +4922,7 @@ dimwishlist:item=2408405461&perks=247725512,1015611457
 //notes:Wishlisted
 dimwishlist:item=-2408405461
 
-//<<The Time-Worn Spire PvP>>
+//<------------------------------The Time-Worn Spire PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321,518224747
 dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321,518224744
@@ -5095,7 +5095,7 @@ dimwishlist:item=3593598010&perks=588594999,11551321
 //notes:Wishlisted
 dimwishlist:item=-3593598010
 
-//<<The Time-Worn Spire PvE>>
+//<------------------------------The Time-Worn Spire PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=3593598010&perks=2405638014,1561002382,2779035018,3425386926,518224747
 dimwishlist:item=3593598010&perks=2405638014,1561002382,2779035018,3425386926,518224744
@@ -5268,7 +5268,7 @@ dimwishlist:item=3593598010&perks=2779035018,3425386926
 //notes:Wishlisted
 dimwishlist:item=-3593598010
 
-//<<The Scholar PvP>>
+//<------------------------------The Scholar PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=2478792241&perks=839105230,1561002382,47981717,1264398905,4283235143
 dimwishlist:item=2478792241&perks=839105230,1561002382,47981717,1264398905,4283235140
@@ -5449,7 +5449,7 @@ dimwishlist:item=-1982711279
 //notes:Trash, go for Scholar for PvP, I have old Transfiguration for PvE, you'll have to check for PvE roll yourself
 dimwishlist:item=-1641430382
 
-//<<Night Watch PvP>>
+//<------------------------------Night Watch PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=3504336176&perks=839105230,1087426260,957782887,3038247973,4283235143
 dimwishlist:item=3504336176&perks=839105230,1087426260,957782887,3038247973,4283235140
@@ -5622,7 +5622,7 @@ dimwishlist:item=3504336176&perks=957782887,3038247973
 //notes:Wishlisted
 dimwishlist:item=-3504336176
 
-//<<Night Watch PvE>>
+//<------------------------------Night Watch PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3425386926,1590375901
 dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3425386926,1590375902
@@ -5795,7 +5795,7 @@ dimwishlist:item=3504336176&perks=247725512,3425386926
 //notes:Wishlisted
 dimwishlist:item=-3504336176
 
-//<<Hung Jury SR4 PvE>>
+//<------------------------------Hung Jury SR4 PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=4281371574&perks=4090651448,1087426260,247725512,3824105627,518224747
 dimwishlist:item=4281371574&perks=4090651448,1087426260,247725512,3824105627,518224744
@@ -5968,7 +5968,7 @@ dimwishlist:item=4281371574&perks=247725512,3824105627
 //notes:Wishlisted
 dimwishlist:item=-4281371574
 
-//<<Hung Jury SR4 PvP>>
+//<------------------------------Hung Jury SR4 PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=4281371574&perks=4090651448,1087426260,588594999,3038247973,518224747
 dimwishlist:item=4281371574&perks=4090651448,1087426260,588594999,3038247973,518224744
@@ -6141,7 +6141,7 @@ dimwishlist:item=4281371574&perks=588594999,3038247973
 //notes:Wishlisted
 dimwishlist:item=-4281371574
 
-//<<Servant Leader PvE>>
+//<------------------------------Servant Leader PvE------------------------------>
 //notes:Godroll
 dimwishlist:item=1107446438&perks=839105230,3230963543,1570042021,3425386926,4283235143
 dimwishlist:item=1107446438&perks=839105230,3230963543,1570042021,3425386926,4283235140
@@ -6314,7 +6314,7 @@ dimwishlist:item=1107446438&perks=1570042021,3425386926
 //notes:Wishlisted
 dimwishlist:item=-1107446438
 
-//<<Servant Leader PvP>>
+//<------------------------------Servant Leader PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=1107446438&perks=839105230,3230963543,2946784966,1015611457,4283235143
 dimwishlist:item=1107446438&perks=839105230,3230963543,2946784966,1015611457,4283235140
@@ -6519,7 +6519,7 @@ dimwishlist:item=-1476654960
 //notes:Trash, mostly PvP use, so go for Eyasluna
 dimwishlist:item=-2742838701
 
-//<<One Small Step One-Two Punch>>
+//<------------------------------One Small Step One-Two Punch------------------------------>
 //notes:Godroll
 dimwishlist:item=1016668089&perks=1047830412,3142289711,1556840489,2679249093,150943607
 dimwishlist:item=1016668089&perks=1047830412,3142289711,1556840489,2679249093,150943604
@@ -6692,7 +6692,7 @@ dimwishlist:item=1016668089&perks=1556840489,2679249093
 //notes:Wishlisted
 dimwishlist:item=-1016668089
 
-//<<One Small Step Trench Barrel>>
+//<------------------------------One Small Step Trench Barrel------------------------------>
 //notes:Godroll
 dimwishlist:item=1016668089&perks=1047830412,106909392,1556840489,2360754333,4283235143
 dimwishlist:item=1016668089&perks=1047830412,106909392,1556840489,2360754333,4283235140
@@ -6865,7 +6865,7 @@ dimwishlist:item=1016668089&perks=1556840489,2360754333
 //notes:Wishlisted
 dimwishlist:item=-1016668089
 
-//<<Riiswalker PvP>>
+//<------------------------------Riiswalker PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007,150943607
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007,150943604
@@ -7042,7 +7042,7 @@ dimwishlist:item=-108221785
 //notes:Trash, mostly PvP use, go for Riiswalker
 dimwishlist:item=-1679868061
 
-//<<Fractethyst PvP>>
+//<------------------------------Fractethyst PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717,150943607
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717,150943604
@@ -7215,7 +7215,7 @@ dimwishlist:item=3184681056&perks=706527188,47981717
 //notes:Wishlisted
 dimwishlist:item=-3184681056
 
-//<<Astral Horizon PvP>>
+//<------------------------------Astral Horizon PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3300816228,47981717,150943607
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3300816228,47981717,150943604
@@ -7392,7 +7392,7 @@ dimwishlist:item=-1697682876
 //notes:Trash, mostly PvP use, go for Astral Horizon
 dimwishlist:item=-2957367743
 
-//<<Heritage Two Slug Strat>>
+//<------------------------------Heritage Two Slug Strat------------------------------>
 //notes:Godroll
 dimwishlist:item=4248569242&perks=839105230,3142289711,1523832109,588594999,150943607
 dimwishlist:item=4248569242&perks=839105230,3142289711,1523832109,588594999,150943604
@@ -7565,7 +7565,7 @@ dimwishlist:item=4248569242&perks=1523832109,588594999
 //notes:Wishlisted
 dimwishlist:item=-4248569242
 
-//<<Heritage PvP>>
+//<------------------------------Heritage PvP------------------------------>
 //notes:Godroll
 dimwishlist:item=4248569242&perks=202670084,3142289711,3300816228,588594999,518224747
 dimwishlist:item=4248569242&perks=202670084,3142289711,3300816228,588594999,518224744
