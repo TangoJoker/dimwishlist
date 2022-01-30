@@ -6486,3 +6486,27 @@ dimwishlist:item=1107446438&perks=2946784966,1015611457
 
 //notes:Wishlisted
 dimwishlist:item=-1107446438
+
+// Peacebond
+//notes:Trash, leave one stasis pistol
+dimwishlist:item=-829330711
+
+// Farewell
+//notes:Trash, leave one kinetic pistol
+dimwishlist:item=-541188001
+
+// High Albedo
+//notes:Trash, leave one kinetic pistol
+dimwishlist:item=-1197486957
+
+// Enigma's Draw
+//notes:Trash, leave one kinetic pistol
+dimwishlist:item=-1723380073
+
+// Lonesome
+//notes:Trash, leave one kinetic pistol
+dimwishlist:item=-2199171672
+
+// Spoileralert
+//notes:Trash, leave one kinetic pistol
+dimwishlist:item=-2588048270
